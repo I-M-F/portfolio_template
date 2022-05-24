@@ -11,7 +11,7 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>TechFlow</i> - <strong>Blockchain Developer Trainee</strong>, 2018-2019
                     <ul>
                         <li>Studied DApp development</li>
                         <li>Assisted Research &amp; Development on Web3 Products</li>
